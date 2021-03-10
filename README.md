@@ -9,7 +9,7 @@
 O Move.it é uma aplicação baseada na técnica Pomodoro que visa ajudar trabalhadores a aumentar sua produtividade. Dessa forma, a aplicação define 25 minutos de trabalho para uma pausa de 5 minutos para descanso e/ou qualquer outra atividade não vinculada ao trabalho. Esse Projeto foi desenvolvido durante a semana do Next Level Week 4ª Edição. 
 
 ### ✅ Demonstração
-![MOVEIT WEB](https://github.com/satel61/moveit-web/blob/master/moveit-web.gif)
+![MOVEIT WEB](https://github.com/satel61/moveit-web/blob/main/moveit-web.gif)
 
 ### ⚙ Pré-requisitos
 
